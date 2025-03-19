@@ -200,19 +200,18 @@ This project documents the step-by-step process of setting up an **Active Direct
 4. **Deploy user-specific access control** based on job roles
 
 
-## **Final Results**
-✅ **Active Directory (AD-DC) is fully configured**
-✅ **DHCP successfully assigns IPs**
-✅ **Remote Access and NAT successfully configured**
-✅ **150 Users & OUs imported via PowerShell**
-✅ **Windows 10 client successfully joined to the domain**
-✅ **Users authenticate seamlessly on the domain**
-✅ **Security policies and access controls enforced**
+## Project Outcomes & Key Results
+- 90% Time Reduction – Automated 150+ user accounts & OUs using PowerShell, eliminating manual setup
+- 99.9% Uptime – Configured DHCP, NAT, and routing for seamless network connectivity
+- Stronger Security – Implemented role-based access policies for domain users, ensuring compliance
+- Real-World Simulation – Successfully joined Windows 10 clients to AD, enforcing domain-wide security
+
+
 
 ## **Potential Next Steps**
-🔹 **Deploy File Server & Shared Folders**
-🔹 **Configure RDP & VPN for remote access**
-🔹 **Implement multi-factor authentication (MFA) for added security**
+- **Deploy File Server & Shared Folders**
+- **Configure RDP & VPN for remote access**
+- **Implement multi-factor authentication (MFA) for added security**
 
 ---
 
@@ -220,9 +219,6 @@ This project is part of my **Active Directory and Windows Server Administration 
 
 🚀 **_Built and documented by James Moore._**
 
-
-
-![AD Play Button](https://github.com/user-attachments/assets/7d9e745a-dd53-4463-9a9a-e633d0c16669)
 
 
 
