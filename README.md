@@ -23,8 +23,8 @@ This project documents the step-by-step process of setting up an **Active Direct
 ## 📺 Watch the Video:
 [![AD Play Button](https://github.com/user-attachments/assets/7d9e745a-dd53-4463-9a9a-e633d0c16669)](https://www.youtube.com/watch?v=X0IN36CUVsU)
 
-🔹 **In this video, I walk through the full setup of an Active Directory environment using Windows Server 2022 and PowerShell automation.**  
-🔹 **From installing AD-DC to configuring users and OUs, it's all covered step by step!**
+- **In this video, I walk through the full setup of an Active Directory environment using Windows Server 2022 and PowerShell automation.**  
+- **From installing AD-DC to configuring users and OUs, it's all covered step by step!**
 
 ---
 
