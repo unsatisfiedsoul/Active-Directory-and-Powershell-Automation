@@ -215,7 +215,7 @@ This project documents the step-by-step process of setting up an **Active Direct
 
 ---
 
-This project is part of my **Active Directory and Windows Server Administration portfolio**. For any inquiries, reach out via **[LinkedIn](https://linkedin.com/in/jamesmoore)** or check out my **TechGneek YouTube channel**[YouTube](https://youtube.com/@TechGneek)!
+This project is part of my **Active Directory and Windows Server Administration portfolio**. For any inquiries, reach out via **[LinkedIn](https://linkedin.com/in/jamesmoore1983)** or check out my **TechGneek YouTube channel**[YouTube](https://youtube.com/@TechGneek)!
 
 🚀 **_Built and documented by James Moore._**
 
