@@ -121,8 +121,8 @@ This project documents the step-by-step process of setting up an **Active Direct
   <table>
     <tr>
       <td><img width="400" alt="Users and OUs added to Active Directory via PowerShell" src="https://github.com/user-attachments/assets/1911fedf-87f5-47ec-b8a4-a7ec316a96ae" /></td>
-      <td><img width="400" alt="CSV File of 150 Users" src="https://github.com/user-attachments/files/19333909/user_accounts_final.csv.zip" /></td>
-      <td><img width="400" alt="PowerShell Script to Upload Users" src="https://github.com/user-attachments/assets/5c6781bd-18c4-45a1-b2b7-1f438f17b1df" /></td>
+      <td><img width="400" alt="CSV File of 150 Users" src="https://github.com/user-attachments/files/19437393/Powershell.Script.and.CSV.file.zip" /></td>
+      <td><img width="400" alt="PowerShell Script to Upload Users" src="https://github.com/user-attachments/files/19437393/Powershell.Script.and.CSV.file.zip" /></td>
     </tr>
     <tr>
       <td align="center"><b>Users & OUs Added via PowerShell</b></td>
